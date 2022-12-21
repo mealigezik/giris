@@ -49,6 +49,6 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="center">📈 Some Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aligezik&theme=codeSTACKr&show_icons=true" alt="my github stats" width="60%" align="center" align="center" >
+<img src="https://github-readme-stats.vercel.app/api?username=mealigezik&theme=codeSTACKr&show_icons=true" alt="my github stats" width="60%" align="center" align="center" >
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aligezik&theme=codeSTACKr&layout=compact" alt="languages" width="60%" >
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mealigezik&theme=codeSTACKr&layout=compact" alt="languages" width="60%" >
